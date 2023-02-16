@@ -1,6 +1,6 @@
 {
   "name": "slabs-website",
-  "version": "4.0.0",
+  "version": "1.0.0",
   "description": "Init SLabs Website Facade",
   "main": "index.js",
   "scripts": {
